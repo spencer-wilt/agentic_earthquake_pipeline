@@ -18,8 +18,8 @@ The pipeline runs in one of two modes that share the same step functions ([pipel
 ## Quick start (no cloud account needed)
 
 ```bash
-git clone <this-repo-url>
-cd <repo>
+git clone https://github.com/spencer-wilt/agentic_earthquake_pipeline.git
+cd agentic_earthquake_pipeline
 python -m venv .venv
 # Windows: .venv\Scripts\activate      macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
